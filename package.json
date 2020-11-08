@@ -1,0 +1,28 @@
+{
+  "name": "votus",
+  "version": "1.0.0",
+  "description": "Scalable voting utility with blockchain storage",
+  "main": "flare.js",
+  "scripts": {
+    "test": "node flare.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kwright02/Votus.git"
+  },
+  "keywords": [
+    "Votus",
+    "Voting",
+    "Blockchain"
+  ],
+  "author": "Kwright02",
+  "license": "All RIGHTS RESERVED",
+  "bugs": {
+    "url": "https://github.com/Kwright02/Votus/issues"
+  },
+  "homepage": "https://github.com/Kwright02/Votus#readme",
+  "dependencies": {
+    "@kwright02/blockchain": "^1.0.0",
+    "express": "^4.17.1"
+  }
+}
